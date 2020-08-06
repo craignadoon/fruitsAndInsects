@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classbasket.html#ac520ae32fbe0b276084f62783899c59c" title="method to move the basket in the game world, in the xz plane" alt="" coords="119,32,281,61"/>
+<area shape="rect" id="node5" href="$classgame_manager.html#ac2ad17d8e47bb31b034b3589bffaf89d" title="method to move the basket with every key press updates the basket position with respect..." alt="" coords="331,32,563,61"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a3c2e352934c6318d405c3d2b0e07729c" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="612,5,825,35"/>
+<area shape="rect" id="node9" href="$classgame_manager.html#aa669588fcdfc57df29cc8039602085ea" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="629,59,808,88"/>
+</map>

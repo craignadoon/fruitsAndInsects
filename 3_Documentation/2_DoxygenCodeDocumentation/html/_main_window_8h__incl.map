@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$game_manager_8h.html" title="a basic Qt GL window class for ngl demos" alt="" coords="859,83,987,112"/>
+<area shape="rect" id="node36" href="$basket_8h.html" title="this class creates the basket, which the player moves around the game world to catch..." alt="" coords="668,160,748,189"/>
+<area shape="rect" id="node69" href="$game_world_8h.html" title="this class creates the surrounding environment for the game" alt="" coords="1687,237,1793,267"/>
+<area shape="rect" id="node81" href="$game_ground_8h.html" title="this class creates the ground/plane for the game" alt="" coords="912,237,1029,267"/>
+<area shape="rect" id="node46" href="$falling_chars_8h.html" title="this class creates the falling characters which the player has to catch" alt="" coords="677,237,787,267"/>
+<area shape="rect" id="node59" href="$game_entities_8h.html" title="this class contains all meshes required in the game using this class, we load meshes..." alt="" coords="896,315,1021,344"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#abcd15b1c81303d54d8e22276bda73ff0" title="method to check the progress of basket catches with every key press" alt="" coords="300,59,481,88"/>
+<area shape="rect" id="node9" href="$classgame_manager.html#ac2ad17d8e47bb31b034b3589bffaf89d" title="method to move the basket with every key press updates the basket position with respect..." alt="" coords="275,112,507,141"/>
+<area shape="rect" id="node17" href="$classgame_manager.html#a703f81fec137f2b89ec3a10d7e2424f7" title="processKeyDown passed from the main window class" alt="" coords="269,165,512,195"/>
+<area shape="rect" id="node5" href="$classgame_manager.html#ac89166c2722204c63effa8e76c29aa2f" title="method to check the progress in number of catches made by basket" alt="" coords="561,5,785,35"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a44f9cc1238d762063cf9838f1c044799" title="signal to update the progress bar in the user interface" alt="" coords="581,59,765,88"/>
+<area shape="rect" id="node11" href="$classbasket.html#ac520ae32fbe0b276084f62783899c59c" title="method to move the basket in the game world, in the xz plane" alt="" coords="592,112,755,141"/>
+<area shape="rect" id="node15" href="$classbasket.html#a5349d148daaaed6166fa057fbd5a5233" title="method to rotate the basket" alt="" coords="588,165,759,195"/>
+<area shape="rect" id="node13" href="$basket_8cpp.html#ac07d78ee69ea2b83e6f63c68c0a60175" title="clamp" alt="" coords="836,112,897,141"/>
+</map>

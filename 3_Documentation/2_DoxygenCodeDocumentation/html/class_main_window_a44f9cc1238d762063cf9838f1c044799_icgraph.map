@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#abcd15b1c81303d54d8e22276bda73ff0" title="method to check the progress of basket catches with every key press" alt="" coords="244,5,425,35"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="ctor basically we create a GLWindow and parent it to this window so our GLWindow..." alt="" coords="237,59,432,88"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a3c2e352934c6318d405c3d2b0e07729c" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="481,5,695,35"/>
+</map>

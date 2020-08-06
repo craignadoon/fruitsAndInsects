@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classgame_manager.html#a9bb6c5d6e33092f997c8928fa50bf75d" title="method to return the score" alt="" coords="244,5,449,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a4dd8b619fd09f41c5862734f6773f9e7" title="slot to update the label for player&#39;s score" alt="" coords="499,5,733,35"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="ctor basically we create a GLWindow and parent it to this window so our GLWindow..." alt="" coords="781,5,976,35"/>
+</map>

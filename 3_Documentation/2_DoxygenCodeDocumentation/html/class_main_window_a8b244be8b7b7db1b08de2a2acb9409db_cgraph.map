@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#a44f9cc1238d762063cf9838f1c044799" title="signal to update the progress bar in the user interface" alt="" coords="275,5,459,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#aaa91cfb5628eef8abaeb66def126a5fc" title="slot to update the progress bar in the user interface" alt="" coords="260,59,473,88"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a4dd8b619fd09f41c5862734f6773f9e7" title="slot to update the label for player&#39;s score" alt="" coords="249,112,484,141"/>
+<area shape="rect" id="node17" href="$class_main_window.html#ac1edf11a19b015f3d782e921a4c5ec91" title="slot to update the label for player&#39;s shield" alt="" coords="249,165,484,195"/>
+<area shape="rect" id="node7" href="$classgame_manager.html#ac89166c2722204c63effa8e76c29aa2f" title="method to check the progress in number of catches made by basket" alt="" coords="535,59,759,88"/>
+<area shape="rect" id="node11" href="$classgame_manager.html#a9bb6c5d6e33092f997c8928fa50bf75d" title="method to return the score" alt="" coords="544,112,749,141"/>
+<area shape="rect" id="node15" href="$_main_window_8cpp.html#a78199ccb8c5aa535fb5287805594640a" title="value_to_string" alt="" coords="584,165,709,195"/>
+<area shape="rect" id="node13" href="$classbasket.html#afa66ed32e86b8aebd823ad0ee640c6f7" title="Method to get the score." alt="" coords="809,112,996,141"/>
+<area shape="rect" id="node19" href="$classgame_manager.html#a41098d23336f1b34e69a983f393dae29" title="method to return the shield value of the basket" alt="" coords="549,219,744,248"/>
+<area shape="rect" id="node21" href="$classbasket.html#a6b175a31e348ea20b15095562f3e51d9" title="Method to get the basket shield value." alt="" coords="808,219,997,248"/>
+</map>

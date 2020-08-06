@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classgame_entities.html#a7e7982b1b9464705093635c99f93d166" title="method to add a mesh with no texture" alt="" coords="256,5,485,35"/>
+<area shape="rect" id="node5" href="$classfalling_chars.html#a4962f8846a376d0ff78d899019e4fde6" title="method to set falling character position" alt="" coords="257,59,484,88"/>
+<area shape="rect" id="node7" href="$classfalling_chars.html#aa5bb8662417181a933519cc42ba7c0e4" title="method to set falling character type and points" alt="" coords="533,59,808,88"/>
+</map>
