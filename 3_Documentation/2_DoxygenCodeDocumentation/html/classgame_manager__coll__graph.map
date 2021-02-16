@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$classgame_ground.html" title="this class creates the ground plane for the basket to move on::include &quot;include/gameGround..." alt="" coords="194,401,386,591"/>
-<area shape="rect" id="node4" href="$classgame_entities.html" title="this class creates the sphere primitive to define the game environment" alt="" coords="327,6,479,178"/>
-<area shape="rect" id="node7" href="$classfalling_chars.html" title="this class creates the falling characters of type &#45; fruit, insects, and stones the..." alt="" coords="410,245,626,747"/>
-<area shape="rect" id="node10" href="$classbasket.html" title="this class creates the basket which catches the falling characters" alt="" coords="650,254,836,738"/>
-<area shape="rect" id="node13" href="$classgame_world.html" title="{gameWorld\n|&#45; m_texID\l&#45; m_texID2\l&#45; m_camera\l|+ gameWorld()\l+ ~gameWorld()\l+ draw()\l}" alt="" coords="860,419,991,573"/>
-</map>

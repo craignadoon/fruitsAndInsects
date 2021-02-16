@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$classgame_manager.html#aa669588fcdfc57df29cc8039602085ea" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="251,5,429,35"/>
-<area shape="rect" id="node5" href="$classgame_manager.html#a41098d23336f1b34e69a983f393dae29" title="method to return the shield value of the basket" alt="" coords="243,59,437,88"/>
-<area shape="rect" id="node7" href="$class_main_window.html#ac1edf11a19b015f3d782e921a4c5ec91" title="slot to update the label for player&#39;s shield" alt="" coords="487,59,721,88"/>
-<area shape="rect" id="node9" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="ctor basically we create a GLWindow and parent it to this window so our GLWindow..." alt="" coords="771,59,965,88"/>
-</map>

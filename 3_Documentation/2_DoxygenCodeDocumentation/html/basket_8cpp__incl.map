@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$basket_8h.html" title="this class creates the basket, which the player moves around the game world to catch..." alt="" coords="549,83,680,112"/>
-<area shape="rect" id="node19" href="$falling_chars_8h.html" title="this class creates the falling characters which the player has to catch" alt="" coords="560,160,669,189"/>
-<area shape="rect" id="node33" href="$game_entities_8h.html" title="this class contains all meshes required in the game using this class, we load meshes..." alt="" coords="1024,237,1149,267"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$game_ground_8h.html" title="this class creates the ground/plane for the game" alt="" coords="420,83,591,112"/>
-<area shape="rect" id="node19" href="$game_entities_8h.html" title="this class contains all meshes required in the game using this class, we load meshes..." alt="" coords="960,160,1085,189"/>
-</map>

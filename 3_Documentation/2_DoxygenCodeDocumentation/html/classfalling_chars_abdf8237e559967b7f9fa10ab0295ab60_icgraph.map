@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$classgame_manager.html#a1e0dff0ea6134c194f81fe4949a19143" title="method to check if there is a catch by basket calls the collsion detection method..." alt="" coords="297,5,505,35"/>
-<area shape="rect" id="node7" href="$classfalling_chars.html#a094b561cb389256c60e700c938e7f78a" title="Draw method for drawing the falling characters." alt="" coords="289,59,513,88"/>
-<area shape="rect" id="node5" href="$classgame_manager.html#a73c3ac34dd2c1fde0640b051bdcd9ec6" title="the timer event triggered from the timers" alt="" coords="564,5,769,35"/>
-<area shape="rect" id="node9" href="$classgame_manager.html#aa669588fcdfc57df29cc8039602085ea" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="577,59,756,88"/>
-</map>

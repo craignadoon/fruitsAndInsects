@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$classgame_entities.html#ac587553e3cac8bcae12fe2ec30e02a41" title="method to draw the mesh, all tx must be executed before the call to draw" alt="" coords="345,5,500,35"/>
-<area shape="rect" id="node5" href="$classgame_ground.html#af93cf519fed874c96dfc37ce90b9754f" title="load all the transform values to the shader" alt="" coords="292,59,553,88"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_main_window.html#a4dd8b619fd09f41c5862734f6773f9e7" title="slot to update the label for player&#39;s score" alt="" coords="180,5,415,35"/>
-<area shape="rect" id="node7" href="$class_main_window.html#ac1edf11a19b015f3d782e921a4c5ec91" title="slot to update the label for player&#39;s shield" alt="" coords="180,59,415,88"/>
-<area shape="rect" id="node5" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="ctor basically we create a GLWindow and parent it to this window so our GLWindow..." alt="" coords="464,32,659,61"/>
-</map>
